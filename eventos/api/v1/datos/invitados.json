@@ -1,0 +1,34 @@
+{
+  "invitados": [
+    {
+      "invitadoId": 1,
+      "nombre": "Lucía",
+      "apellido": "Rojas"
+    },
+    {
+      "invitadoId": 2,
+      "nombre": "Diego",
+      "apellido": "Silva"
+    },
+    {
+      "invitadoId": 3,
+      "nombre": "Valentina",
+      "apellido": "Ortiz"
+    },
+    {
+      "invitadoId": 4,
+      "nombre": "Andrés",
+      "apellido": "Romero"
+    },
+    {
+      "invitadoId": 5,
+      "nombre": "Lucía",
+      "apellido": "Romero"
+    },
+    {
+      "invitadoId": 6,
+      "nombre": "María",
+      "apellido": "Gómez"
+    }
+  ]
+}
